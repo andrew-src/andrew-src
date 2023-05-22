@@ -11,7 +11,7 @@ About me:
 <br>
 
 <div>
-  <a href="https://github.com/andrew-src">
+  <a href="https://github.com/andrew-src?tab=repositories">
   <img width=auto height="150em" src="https://github-readme-stats.vercel.app/api?username=andrew-src&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs"/>
   <img width=auto height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-src&layout=compact&theme=github_dark"/>
 </div>  
