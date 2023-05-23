@@ -3,7 +3,7 @@
 About me:
   - 🔭 I’m currently working as an Intern at <a href="https://www.linkedin.com/company/vivo-telefonicabr/" target="_blank"> Vivo (Telefônica Brasil) 💜 </a>  
   - 📚 Focused in learning <a href="https://www.typescriptlang.org/" target="_blank"> TypeScript,  <a href="https://react.dev/" target="_blank"> React.js & <a href="https://nextjs.org/" target="_blank">Next.js,  <a href="https://nodejs.org/en/" target="_blank">Node.js 🧠
-  - 📌 I live in São Paulo, Brazil 🇧🇷
+  - 📌 I live in São Paulo, Brazil 🔰
   - 👨‍🎓 Currently studying at <a href="https://www.linkedin.com/school/faculdade-de-tecnologia-de-s%C3%A3o-paulo-fatec-sp" target="_blank"/> FATEC 🎓 </a> 
   - 💬 Any help or tips are always welcome!
   #
