@@ -17,7 +17,7 @@ About me:
 </div>  
 </div>
 
-  
+ #
   
 <h3 align="left">Languages and Tools: <img src="https://i.pinimg.com/originals/5d/83/69/5d8369d65e9b8b2987122aac9d5a1e9f.gif" width="30"></h3>
 <p align="left"> 
