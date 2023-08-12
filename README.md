@@ -1,7 +1,7 @@
 <h1> Hi there, I'm Andrew <img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="60"></h1>
 
 About me:
-  - 🔭 I’m currently working as an Intern at <a href="https://www.linkedin.com/company/vivo-telefonicabr/" target="_blank"> Vivo (Telefônica Brasil) 💜 </a>  
+  - 🔭 I'm currently working as an IT Production Analyst at <a href="https://www.linkedin.com/company/vivo-telefonicabr/" target="_blank"> Vivo (Telefônica Brasil) 💜 </a>  
   - 📚 Focused in learning <a href="https://www.typescriptlang.org/" target="_blank"> TypeScript,  <a href="https://react.dev/" target="_blank"> React.js & <a href="https://nextjs.org/" target="_blank">Next.js,  <a href="https://nodejs.org/en/" target="_blank">Node.js 🧠
   - 📌 I live in <a href="https://goo.gl/maps/nLRy6dtq2RVx21xt6/" target="_blank"> São Paulo, Brazil 🔰
   - 👨‍🎓 Currently studying at <a href="https://www.linkedin.com/school/faculdade-de-tecnologia-de-s%C3%A3o-paulo-fatec-sp" target="_blank"/> FATEC SP 🎓 </a> 
